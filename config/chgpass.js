@@ -11,7 +11,7 @@ var smtpTransport = nodemailer.createTransport(smtpTransport({
     port: 587,
     auth : {
         user : "genni.allocca@gmail.com",
-        pass : "Gennaron1@g"
+        pass : "djfalskjf"
     }
 }));
 
