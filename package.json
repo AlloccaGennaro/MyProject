@@ -1,0 +1,32 @@
+{
+  "name": "MyProject",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "cookie-parser": "~1.0.0",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0",
+    "csprng": "latest",
+    "connect-flash": "latest",
+    "mongodb": "latest",
+    "mongoose": "latest",
+    "connect": "latest",
+    "nodemailer": "~1.4.0",
+    "nodemailer-smtp-transport":"~1.0.3"
+    "crypto": "latest",
+    "gravatar": "latest",
+    "passport": "~0.1.17",
+    "path": "^0.12.7",
+    "winston": "latest",
+    "supertest": "latest",
+    "should": "latest",
+    "express-session": "~1.0.0"
+  }
+}
